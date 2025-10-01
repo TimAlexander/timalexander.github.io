@@ -40,12 +40,12 @@ profiles:
     url: https://github.com/TimAlexander
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/timtomov/
+  - icon: brands/twitter
+    url: https://x.com/timalexader
 
 interests:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Natural Language Processing
+  - Uncertainty Quantification
+  - Reliability
 
 education:
   - area: PhD in Machine Learning
@@ -60,7 +60,7 @@ education:
     date_end: 2025-09-30
     summary: |
       Specialized in machine learning and artificial intelligence. Thesis on deep learning applications in computer vision.
-  - area: BSc in Computer Science
+  - area: BSc in Information Systems
     institution: Technical University of Munich
     date_start: 2019-10-01
     date_end: 2022-09-30
@@ -134,4 +134,8 @@ languages:
 
 ---
 
-Tim Alexander is a PhD student in Machine Learning at the Technical University of Munich, where he conducts research in deep learning, computer vision, and natural language processing. He completed his Master's and Bachelor's degrees in Computer Science at TUM with outstanding academic performance. Tim is passionate about advancing the field of artificial intelligence through rigorous research and practical applications. He also serves as a research assistant, contributing to various machine learning projects and publications.
+I am a PhD student in the Data Analytics and Machine Learning (DAML) group at the Technical University of Munich, where I work with Prof. Stephan Günnemann. My research centers on uncertainty quantification in machine learning—essentially, I'm trying to figure out when models know that they don't know something. I am particularly interested in an information-theoretic view of machine learning, which provides principled foundations for understanding uncertainty and knowledge in AI systems.
+
+Currently, I'm exploring this question in the context of large language models (LLMs). I'm fascinated by the challenge of understanding when these models are truly confident versus when they're just producing plausible-sounding text. My goal is to develop both theoretical frameworks and practical systems that can reliably detect and communicate uncertainty, making AI systems more trustworthy and safer to deploy in real-world applications.
+
+I completed both my Master's and Bachelor's degrees at TUM, where I built a strong foundation in machine learning and deep learning. Beyond research, I'm driven by the vision of creating AI systems that don't just perform well on average, but that also know their limits and can say "I don't know" when appropriate.

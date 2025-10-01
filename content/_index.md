@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '0rem'
 
 sections:
   - block: resume-biography-3
@@ -19,26 +19,16 @@ sections:
       #  text: Download CV
       #  url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About Me'
+        education: 'Education'
+        interests: 'Interests'
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
-      # Avatar customization
+      css_class: ''
+      spacing:
+        padding: ['0rem', '0', '0rem', '0']
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Uncertainty Quantification
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Recent Publications
@@ -49,4 +39,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: ['0rem', '0', '0rem', '0']
 ---
