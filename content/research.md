@@ -16,7 +16,7 @@ sections:
       count: 0
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
       sort_by: 'Date'
       sort_ascending: false

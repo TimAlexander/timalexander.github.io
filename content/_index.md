@@ -35,7 +35,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation
