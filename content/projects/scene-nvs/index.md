@@ -5,8 +5,8 @@ tags:
   - Computer Vision
   - Deep Learning
   - Neural Rendering
-date: 2024-05-10
-external_link: 'https://github.com/TimAlexander/scene_nvs'
+date: 2022-05-10
+external_link: 'https://github.com/TimTomov/scene_nvs'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -19,7 +19,7 @@ links:
   - icon: brands/github
     icon_pack: fas
     name: GitHub
-    url: https://github.com/TimAlexander/scene_nvs
+    url: https://github.com/TimTomov/scene_nvs
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -14,7 +14,7 @@ pronouns: #he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,11 +37,11 @@ profiles:
     url: 'mailto:tim.tomov@tum.de'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/TimAlexander
+    url: https://github.com/timtomov
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/timtomov/
   - icon: brands/twitter
-    url: https://x.com/timalexader
+    url: https://x.com/timtomov
 
 interests:
   - Uncertainty Quantification
